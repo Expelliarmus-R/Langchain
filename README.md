@@ -32,3 +32,6 @@ It uses **LangChain** with **Google Gemini (Generative AI)** to create fancy res
    ```bash
    git clone https://github.com/your-username/restaurant-name-generator.git
    cd restaurant-name-generator
+## ⚡ Install dependencies 
+
+pip install -r requirements.txt
