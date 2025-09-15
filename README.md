@@ -22,9 +22,9 @@ It uses **LangChain** with **Google Gemini (Generative AI)** to create fancy res
 ---
 
 ## 📸 Demo  
-(Add a screenshot or GIF of your Streamlit app here)  
 
----
+---<img width="1536" height="1024" alt="ChatGPT Image Sep 15, 2025, 11_00_09 PM" src="https://github.com/user-attachments/assets/4429a7b0-573a-49a6-aeb8-74969024404b" />
+
 
 ## ⚡ Installation  
 
